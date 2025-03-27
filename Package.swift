@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ZegoExpressEngine",
-            url: "https://artifact-node.zego.cloud/generic/swiftpm/public/express-video-ios/ZegoExpressEngine.xcframework.zip?version=3.20.1",
-            checksum: "1e8ba3ab3eb6430da1ba42f585417393470e0a981954ca63174235698d058467"
+            url: "https://artifact-node.zego.cloud/generic/swiftpm/public/express-video-ios/ZegoExpressEngine.xcframework.zip?version=3.20.2",
+            checksum: "24f4dc78e2c95b7c0f9d1f2393f174f9f40918813d86514c949f6e8a8d0126ec"
         )
     ]
 )
